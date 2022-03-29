@@ -1,3 +1,5 @@
+//I copied and pasted this from a website.
+
 let i;
 for (i=1; i<=100; i++)
 {

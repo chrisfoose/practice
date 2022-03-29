@@ -5,3 +5,4 @@ let secondPart = prompt('Enter the second part');
 
 fullString = 'Here is the prepended string: ' + secondPart + firstPart;
 console.log(fullString);
+alert(fullString);
